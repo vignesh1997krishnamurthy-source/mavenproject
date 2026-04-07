@@ -1,3 +1,2 @@
 Hello all
-
-Find salt in pickle
+Hello world
